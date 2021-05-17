@@ -1,0 +1,19 @@
+[
+  {
+    "fname": "doaa",
+    "lname": "yasser",
+    "email": "doaaghaly@yahoo.com",
+    "password": "123",
+    "phone": "01234567890",
+    "id": 2
+  },
+  {
+    "fname": "doaa",
+    "lname": "yasser",
+    "email": "doaayasser@yahoo.com",
+    "password": "12",
+    "phone": "01034567890",
+    "id": 3
+  }
+
+]
